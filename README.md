@@ -22,3 +22,7 @@ On linux, run the following
 >> rm database.sqlite.zip
 
 
+### Data Analysis / Visualization
+
+Open the Jupyter Notebook to see Tables, Queries, and Visualizations!
+
